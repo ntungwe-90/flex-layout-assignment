@@ -1,0 +1,90 @@
+#header{
+	background-color:#20c1c8;
+	height: 150px;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+
+}
+#black{
+	background-color: black;
+	height:20px;
+	border-radius: 2px;
+	padding: 10px 10px 10px 10px;
+}
+#black > a{
+	color: white;
+}
+
+ .irene{
+	flex-wrap: wrap;
+	display: flex;
+}
+
+
+	.irene div{
+	background-color: green;
+	height: 600px;
+	border-style: solid 1.3px black;
+	
+}
+
+
+#first{
+	background-color: #e6e6ff;
+	height: 650px;
+	width: 400px;
+}
+#picture{
+	height: 150px;
+	width:393px;
+	background-color: #ccccff;
+}
+#image1{
+	height: 35px;
+	width: 393px;
+	background-color: #ccccff;
+
+
+}
+#image2{
+	height: 35px;
+	width: 393px;
+	background-color: #ccccff;
+}
+#image3{
+	height: 35px;
+	width: 393px;
+	background-color: #ccccff;
+}
+#second{
+	background-color:white;
+	height: 600px;
+	width: 795px;
+}
+#rightim1{
+	height:150px;
+	width:780px;
+	background-color:#ccccff;
+}
+#rightim2{
+	height: 150px;
+	width: 780;
+	background-color: #ccccff;
+	
+
+
+
+}
+Footer{
+	width: 100%;
+	background-color:#ccccff; 
+	text-align:center;
+	height:100px;
+	
+
+
+}
+
+
+}
+
